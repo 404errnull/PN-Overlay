@@ -1,0 +1,12 @@
+ign: NOT_YAHYA
+client: lunar
+gamemode: bedwars
+selfstats: true
+stats: lifetime
+interval: lifetime
+sort by: level
+fixedstats: false
+opacity: 60
+topmost: true
+topbar: true
+autoclose: false
